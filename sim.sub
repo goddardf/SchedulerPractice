@@ -1,0 +1,3 @@
+#!/bin/bash
+rm sim.data
+./sim 1 5 0.06 0.01
